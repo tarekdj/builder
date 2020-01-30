@@ -1,5 +1,5 @@
 {
-    "name": "stack/builder",
+    "name": "tarekdj/builder",
     "description": "Builder for stack middlewares based on HttpKernelInterface.",
     "keywords": ["stack"],
     "license": "MIT",
